@@ -1,0 +1,55 @@
+Q.1) According to discussion devoted to software pricing an  argument against separate pricing
+         arrises in which  Separate pricing would widen the gap between __________and
+          __________ design.
+Ans - Hardware , Software  
+
+Q.2) Who had asked this question " What does software engineering and computing
+         engineering have in common with engineering education as it is defined in 
+         the United States today, or in Western Europe?" while special discussion devoted to
+         software engineering education.
+    A) E.W.Dijkstra
+    B)David Gries.
+    C)A.J.Perlis.
+    D) Brian Randell.
+    Ans - ( B)
+
+Q.3) Find the arguments which is in the favour of seperate pricing.  
+    A) Purchase of software from multiple vendors will create a tower of Babel. At the time of the
+         IBM 704, even two competing assemblers caused much dissension. 
+    B) There will not be enough decrease in hardware prices to have any noticeable financial
+         effect.
+     C) Hardware manufacturers have such an advantage in the knowledge of future systems and
+          devices, and in the availability of hardware prototypes, that independent software
+          producers could not compete.
+     D) Systems organisations, which buy hardware, and either buy or produce software in order
+          to sell complete systems, would flourish.
+Ans -( D )
+
+Q.4) Find the arguments which is not in the favour of seperate pricing.
+     A) Users are worried about the service they get from the total system. Separate pricing
+           would widen the gap between hardware and software design.
+     B)Systems organisations, which buy hardware, and either buy or produce software in order
+         to sell complete systems, would flourish. 
+     C)From the viewpoint of the hardware manufacturer software is currently a sales aid. Most
+         manufacturers are really in the business of selling computer time, not computers, and
+         hence have no primary interest in making its computers run faster than the minimum
+         speed required to sell them. 
+     D)What the user needs is better software — he does not care too much where it comes
+        from. The increased competition ensuing from separate pricing would cause an increase in
+        quality of software produced 131 by hardware manufacturers as well as increasing the
+        number of sources of software available to the user.
+Ans -( A)
+
+Q.5) Write any one of two answer's of Dijkstra given to the question "How one can get
+         experience  when working in a university"   during a special discussion devoted to software
+         engineering education. 
+Ans - 1st answer of Dijkstra :
+	  If you undertake something at a university it has to be one of your main concerns to
+	 organize your activity in such a way that you get exactly the experience you need.
+	 This again must be the main concern in the choice of projects.
+           2nd answer of Dijkstra :
+	(2) We have a Dutch proverb: ‘One learns from experience’, suggesting that it happens
+	 automatically. Well, this is a lie. Otherwise everyone would be very, very wise.
+	 Consequently in a university with limited resources, from the experience one has got
+	 one should try, consciously, to learn as much as possible. 
+
