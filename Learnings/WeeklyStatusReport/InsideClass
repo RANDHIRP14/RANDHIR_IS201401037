@@ -40,3 +40,20 @@ Week 4:-
 3) We also learned about stakeholders of both Problem world and Solution world 
    and the fundamental requirements of any software.
    
+Week 5:-
+1) We learnt in detail about  Waterflow Model and compare it with  other models.
+2) We also learnt about Prototyping Model :
+   -> This prototype is developed based on the currently known requirements.
+   -> The basic idea here is that instead of freezing the requirements before a design or coding
+      can proceed, a simple prototype is built to understand the requirements.
+   -> By using this prototype, the client can get an “actual feel” of the system.And if the client 
+      is not satisfy with the system the developer can change or modify it .
+3) We also learnt about Evolutionary Model :
+   -> This model is based on the idea of rapidly developing an initial software implementation.
+   -> And modifying this according to  feedback from different users as a new version release 
+      for that software.
+4) And also some other model like spiral (in which each cycle of development is completed,
+   project is tested and again repeats the cycle) and get to know  how can we use different
+   software  development model to developed our software in given time interval or deadline. 
+5) And we also came to know that  every project needs to be understood from four
+   entities ie. designer,developer, tester and user.
